@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgole123&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgole123" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Shopping Website**
+- 🌱 I’m currently learning **Full stack development**
 
 - 💬 Ask me about **HTML, CSS, Javascript, python, SQL, React, Django**
 
