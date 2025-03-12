@@ -6,7 +6,7 @@
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=sushantk98&label=Profile%20views&color=0e75b6&style=flat"
         alt="sushantk98" /> </p><br>
-<p align="left"> <a href="https://x.com/ig_ToyBreaker?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/RahulGole123?logo=twitter&style=flat" alt="ig_ToyBreaker" /></a> </p>    
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/RahulGole123?logo=twitter&style=flat" alt="ig_ToyBreaker" /></a> </p>    
 <img align="right" width="400"
 <br></br>
 
