@@ -1,4 +1,4 @@
-![logo](https://github.com/RAHULGOLE123/RAHULGOLE123/blob/main/Grey%20Minimalist%20Linkedin%20Banner.png)
+![logo](https://github.com/RAHULGOLE123/RAHULGOLE123/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rahul Gole</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=1&vCenter=true&lines=I'm+a+Full-Stack+Developer;I'm+a+Front-end+Developer;I'm+a+Back-End+Developer;I'm+a+Web+Designer" alt="Typing SVG" /></a></h3>
